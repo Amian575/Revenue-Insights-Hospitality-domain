@@ -22,3 +22,11 @@ Create relevant insights that are not provided in the metric list/mock-up dashbo
 
 
 ![Screenshot 2025-03-26 233408](https://github.com/user-attachments/assets/3a18772f-45d6-495c-a674-4fab26d985de)
+
+
+**Overall Analysis dashboard view**
+
+![Screenshot 2025-03-26 212136](https://github.com/user-attachments/assets/2d65cb69-695b-4687-8403-57db5def8d58)
+
+
+
