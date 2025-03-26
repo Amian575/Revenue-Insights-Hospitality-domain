@@ -12,5 +12,7 @@ Create a dashboard according to the mock-up provided by stakeholders.
 Create relevant insights that are not provided in the metric list/mock-up dashboard.
 **Provided Mock-up Dashboard**
 
+![mock up dashboard_atliq grands](https://github.com/user-attachments/assets/889eaf72-f17f-450e-8887-204ecec94f48)
+
 
 **Data Model**
